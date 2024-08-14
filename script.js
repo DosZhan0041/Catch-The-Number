@@ -44,7 +44,7 @@ document.getElementById('nav').remove()
 document.getElementById('nav').firstChild
 
 // Узнать последний детеныш
-document.getElementById('nav').lastChild
+
 
 
 
